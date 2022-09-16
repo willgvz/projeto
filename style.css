@@ -12,7 +12,7 @@ body {
     background-position:top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
-    background-color: #121214;
+    background-color: black;
 }
 
 body * {
@@ -26,7 +26,7 @@ header {
 header div {
     width: 120px;
     margin: auto;
-    background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%) ;
+    background-image: linear-gradient(90deg, #ec6666 0%, #ee4444 50.52%, #fc0000 100%) ;
     border-radius: 100%;
     display: flex;
     padding: 4px;
@@ -44,7 +44,7 @@ header img {
 }
 
 main {
-    width: 580px;
+    width: 590px;
     width: 60%;
     margin: auto;
     display: grid;
@@ -54,14 +54,14 @@ main {
 }
 
 section {
-    color: white;
-    background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%) ;
+    color: rgb(249, 249, 249);
+    background-image: linear-gradient(90deg,  #ec6666 0%, #ee4444 50.52%, #fc0000 100%) ;
     padding-top: 4px;
     border-radius: 10px;
 }
 
 section div {
-    background-color: #2a2634;
+    background-color: #202021;
     padding: 32px;
     padding-top: 24px;
     border-radius: 8px;
@@ -75,7 +75,7 @@ section h2 {
 section p {
     
     letter-spacing: -0.18px;
-    color:#a1a1aa;
+    color:#f0c9c9;
 }
 
 section ul {
@@ -93,13 +93,13 @@ section ul li:hover {
     transform: scale(1.1);
 }
 .Séries img {
-    width: 90px;
-    border-radius: 8px;
+    width: 135px;
+    border-radius: 24px;
 
 }
 .Animes img {
-    border-radius: 8px;
-    width: 90px;
+    width: 135px;
+    border-radius: 24px;
 }
 .Plataformas img {
     border-radius: 50%;
