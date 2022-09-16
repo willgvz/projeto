@@ -83,6 +83,7 @@ section ul {
     flex-wrap: wrap;
     gap: 16px;
     margin-top: 24px;
+    
 }
 section ul li {
     transition: transform .3s;
