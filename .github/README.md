@@ -1,6 +1,6 @@
 # NLW eSports  
 
-! [preview] (./.github/preview)
+![preview](will-project.png)
 
 > Trilha Explorer
 
@@ -9,6 +9,7 @@ eventoNext Level Week
 da Rockseat.
 
 [🔗Clique aqui para acessar] (https://willgvz.github.io/will-project)
+
 
 ## 😁 Tecnologias
 
