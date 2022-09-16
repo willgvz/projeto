@@ -8,7 +8,7 @@ Projeto construído do
 eventoNext Level Week
 da Rockseat.
 
-[🔗Clique aqui para acessar] (https://willgvz.github.io/will-project)
+[🔗Clique aqui para acessar](https://willgvz.github.io/will-project)
 
 
 ## 😁 Tecnologias
